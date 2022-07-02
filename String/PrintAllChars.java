@@ -1,3 +1,5 @@
+//******PRINT ALL THE CHARACTERS OF A STRING******//
+
 package String;
 import java.util.Scanner;
 public class PrintAllChars {
